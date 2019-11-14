@@ -1,0 +1,34 @@
+[2019-09-23 18:29:02]{Main}start
+[2019-09-23 18:29:02]{Movies init}start
+[2019-09-23 18:29:02]{Movies init}end, rcv num of data 3883
+[2019-09-23 18:29:02]{Ratings init}start
+[2019-09-23 18:29:04]{Ratings init}end, rcv num of data 6040
+[2019-09-23 18:29:04]{RA process}process start
+[2019-09-23 18:29:04]{RA find_the_most_active_user}start
+[2019-09-23 18:29:04]{RA find_the_most_active_user}end, vid = 4169, vic = 2314
+[2019-09-23 18:29:04]{RA user_evalueItem}start
+[2019-09-23 18:29:04]{RA user_evalueItem}end
+[2019-09-23 18:29:04]{RA degree_of_preference_feature}start
+[2019-09-23 18:29:04]{RA degree_of_preference_feature}end
+[2019-09-23 18:29:04]{RA process}similar process start
+[2019-09-23 18:29:05]{RA process}1/18
+[2019-09-23 18:29:05]{RA process}2/18
+[2019-09-23 18:29:05]{RA process}3/18
+[2019-09-23 18:29:05]{RA process}4/18
+[2019-09-23 18:29:05]{RA process}5/18
+[2019-09-23 18:29:05]{RA process}6/18
+[2019-09-23 18:29:05]{RA process}7/18
+[2019-09-23 18:29:05]{RA process}8/18
+[2019-09-23 18:29:05]{RA process}9/18
+[2019-09-23 18:29:05]{RA process}10/18
+[2019-09-23 18:29:05]{RA process}11/18
+[2019-09-23 18:29:05]{RA process}12/18
+[2019-09-23 18:29:05]{RA process}13/18
+[2019-09-23 18:29:05]{RA process}14/18
+[2019-09-23 18:29:05]{RA process}15/18
+[2019-09-23 18:29:05]{RA process}16/18
+[2019-09-23 18:29:05]{RA process}17/18
+[2019-09-23 18:29:05]{RA process}18/18
+{'Drama': 0.24291173154877435, 'Comedy': 0.008057685492942803, "Children's": 6.8764569021041e-06, 'Adventure': 2.790490553281744e-05, 'Western': 5.017438644771114e-07, 'Sci-Fi': 1.4424363719375472e-05, 'Action': 5.310829997165268e-05, 'Fantasy': 3.2055918005678466e-07, 'Romance': 0.0008901754068991111, 'Thriller': 0.0004454214212702031, 'Documentary': 7.417697677192478e-08, 'Animation': 5.7428965984616154e-06, 'Musical': 6.945770312290348e-05, 'Crime': 6.988429474800714e-05, 'Horror': 3.5105921126874423e-06, 'War': 0.00019442659274492818, 'Film-Noir': 2.2374944056226137e-05, 'Mystery': 4.3955333619148836e-06}
+[2019-09-23 18:29:05]{RA process}process end
+[2019-09-23 18:29:05]{Main}end
